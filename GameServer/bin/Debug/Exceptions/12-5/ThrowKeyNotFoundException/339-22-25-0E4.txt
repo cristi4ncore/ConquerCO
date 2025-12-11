@@ -1,0 +1,10 @@
+----Exception message----
+La clave proporcionada no se encontró en el diccionario.
+----End of exception message----
+
+----Stack trace----
+   en System.ThrowHelper.ThrowKeyNotFoundException()
+   en System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   en DeathWish.Threading.WorldTournaments.Handle() en C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\ThreadCollection\Collection\Functions\WorldTournaments.cs:línea 15
+----End of stack trace----
+

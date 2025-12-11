@@ -1,0 +1,12 @@
+----Exception message----
+Acceso denegado a la ruta de acceso 'Items'.
+----End of exception message----
+
+----Stack trace----
+   en System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
+   en System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   en DeathWish.Game.BotBoothDB.clear() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\BotBoothDB.cs:línea 41
+   en DeathWish.Game.PlayerbotBooth.save() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\PlayerbotBooth.cs:línea 111
+   en DeathWish.Database.Server.Save(Action obj) en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\Server.cs:línea 999
+----End of stack trace----
+

@@ -1,0 +1,14 @@
+----Exception message----
+El proceso no puede obtener acceso al archivo 'C:\Users\pezzi\Desktop\Source Package v.6609\DB\Clans\23.txt' porque está siendo utilizado en otro proceso.
+----End of exception message----
+
+----Stack trace----
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.IO.FileInfo.Open(FileMode mode)
+   en DeathWish.Database.DBActions.Write.Execute(Mode mod) en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\DBActions\Write.cs:línea 58
+   en DeathWish.Database.ClanTable.Save() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\ClanTable.cs:línea 19
+   en DeathWish.Database.Server.Save(Action obj) en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\Server.cs:línea 999
+----End of stack trace----
+

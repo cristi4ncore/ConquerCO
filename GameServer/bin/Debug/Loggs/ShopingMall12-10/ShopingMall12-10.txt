@@ -1,0 +1,16 @@
+[ShopingMall]17H:30M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:32M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:33M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:33M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:33M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:34M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:35M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:44M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:44M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:45M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:46M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:46M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:46M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:47M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:48M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 
+[ShopingMall]17H:55M pid: 1000005 maxi [ Buy ]   1  Of  [1088001] For 3 Cps 

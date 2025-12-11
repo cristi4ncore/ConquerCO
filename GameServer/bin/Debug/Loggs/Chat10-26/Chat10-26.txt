@@ -1,0 +1,25 @@
+[Chat]DeathCO to All  @rev
+[Chat]DeathCO to All  @npcold
+[Chat][GM]DeathCO[PM] to All  @npcold
+[Chat][GM]DeathCO[PM] to All  @npcold1
+[Chat][GM]DeathCO[PM] to All  @npcold1
+[Chat][GM]DeathCO[PM] to All  @npcold1
+[Chat][GM]DeathCO[PM] to All  @sobnpcold
+[Chat][GM]DeathCO[PM] to All  @tele 1002 293 275
+[Chat][GM]DeathCO[PM] to All  @tele 1002 293 275 0
+[Chat][GM]DeathCO[PM] to All  @sobnpcold
+[Chat][GM]DeathCO[PM] to All  @sobnpcold
+[Chat][GM]DeathCO[PM] to All  @cps 99999
+[Chat][GM]DeathCO[PM] to All  @scroll tc
+[Chat][GM]DeathCO[PM] to All  #tc
+[Chat][GM]DeathCO[PM] to All  @tc
+[Chat][GM]DeathCO[PM] to All  /tc
+[Chat][GM]DeathCO[PM] to All  #tc
+[Chat][GM]DeathCO[PM] to All  /tc
+[Chat][GM]DeathCO[PM] to All  /tc
+[Chat][GM]DeathCO[PM] to All  @scroll tc
+[Chat][GM]DeathCO[PM] to All  @sobnpc_audit
+[Chat][GM]DeathCO[PM] to All  @sobnpc_audit
+[Chat][GM]DeathCO[PM] to All  @sobnpc_clean
+[Chat][GM]DeathCO[PM] to All  @scroll tc
+[Chat][GM]DeathCO[PM] to All  @scroll tc

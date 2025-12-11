@@ -1,0 +1,1015 @@
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+F:\خاص\VIPConquer\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.config
+F:\خاص\VIPConquer\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.manifest
+F:\خاص\VIPConquer\# This Sourse - Last Edit\bin\Debug\DeathWish.application
+F:\خاص\VIPConquer\# This Sourse - Last Edit\bin\Debug\DeathWish.exe
+F:\خاص\VIPConquer\# This Sourse - Last Edit\bin\Debug\DeathWish.pdb
+F:\خاص\VIPConquer\# This Sourse - Last Edit\bin\Debug\en\DeathWish.resources.dll
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Chi.resources
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Controlpanel.resources
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.JiangHu.resources
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\en\DeathWish.resources.dll
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.exe.manifest
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.application
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.exe
+F:\خاص\VIPConquer\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.pdb
+F:\خاص\Adly chains\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.config
+F:\خاص\Adly chains\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.manifest
+F:\خاص\Adly chains\# This Sourse - Last Edit\bin\Debug\DeathWish.application
+F:\خاص\Adly chains\# This Sourse - Last Edit\bin\Debug\DeathWish.exe
+F:\خاص\Adly chains\# This Sourse - Last Edit\bin\Debug\DeathWish.pdb
+F:\خاص\Adly chains\# This Sourse - Last Edit\bin\Debug\en\DeathWish.resources.dll
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Chi.resources
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Controlpanel.resources
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.JiangHu.resources
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\en\DeathWish.resources.dll
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.exe.manifest
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.application
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.exe
+F:\خاص\Adly chains\# This Sourse - Last Edit\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\# This Sourse Viking Edit MrMohamed\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Glory\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Glory\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Glory\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Glory\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Glory\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Glory\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Glory\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\NLV15\KIKO-NLV\Pirate[2D]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Server\PIKAv15\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Server\PIKAv15\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Server\PIKAv15\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Server\PIKAv15\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Server\PIKAv15\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Server\PIKAv15\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Server\PIKAv15\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\V75\Source\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\V75\Source\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\V75\Source\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\V75\Source\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\V75\Source\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\V75\Source\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\V75\Source\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test\Source\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Test\Source\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Test\Source\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Test\Source\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Test\Source\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Test\Source\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Test\Source\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\DIABLO\Source\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\DIABLO\Source\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\DIABLO\Source\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\DIABLO\Source\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\DIABLO\Source\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\DIABLO\Source\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\DIABLO\Source\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Test\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Test\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Test\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Test\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Test\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Test\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\DIABLO\Source-V\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\DIABLO\Source-V\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\DIABLO\Source-V\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\DIABLO\Source-V\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\DIABLO\Source-V\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\DIABLO\Source-V\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\DIABLO\Source-V\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source-V\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Source-V\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source-V\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source-V\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source-V\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source-V\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source-V\obj\x86\Debug\DeathWish.pdb
+C:\Users\Test\bin\Debug\DeathWish.exe.config
+C:\Users\Test\bin\Debug\DeathWish.exe.manifest
+C:\Users\Test\bin\Debug\DeathWish.application
+C:\Users\Test\bin\Debug\DeathWish.exe
+C:\Users\Test\bin\Debug\DeathWish.pdb
+C:\Users\Test\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Test\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Test\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Test\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Test\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Test\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Test\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Test\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Test\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Test\obj\x86\Debug\DeathWish.application
+C:\Users\Test\obj\x86\Debug\DeathWish.exe
+C:\Users\Test\obj\x86\Debug\DeathWish.pdb
+C:\Users\Test1\Test\bin\Debug\DeathWish.exe.config
+C:\Users\Test1\Test\bin\Debug\DeathWish.exe.manifest
+C:\Users\Test1\Test\bin\Debug\DeathWish.application
+C:\Users\Test1\Test\bin\Debug\DeathWish.exe
+C:\Users\Test1\Test\bin\Debug\DeathWish.pdb
+C:\Users\Test1\Test\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Test1\Test\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.application
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.exe
+C:\Users\Test1\Test\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\WegZ\Test\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\WegZ\Test\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Source\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\Source\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\Source\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\Source\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\Source\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\Source\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source1\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Source1\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source1\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source1\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source1\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source1\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source1\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\Source1\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\Source1\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\Source1\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\Source1\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\Source1\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source1\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source1\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\EarthQuake\Source1\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source#\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Source#\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source#\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source#\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source#\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source#\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.pdb
+C:\Users\Source#\bin\Debug\DeathWish.exe.config
+C:\Users\Source#\bin\Debug\DeathWish.exe.manifest
+C:\Users\Source#\bin\Debug\DeathWish.application
+C:\Users\Source#\bin\Debug\DeathWish.exe
+C:\Users\Source#\bin\Debug\DeathWish.pdb
+C:\Users\Source#\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Source#\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Source#\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Source#\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Source#\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Source#\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Source#\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Source#\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Source#\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Source#\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Source#\obj\x86\Debug\DeathWish.application
+C:\Users\Source#\obj\x86\Debug\DeathWish.exe
+C:\Users\Source#\obj\x86\Debug\DeathWish.pdb
+C:\Users\Source#\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Source#\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Source#NewSok\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Source#NewSok\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source#NewSok\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source#NewSok\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source#NewSok\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source#NewSok\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source#NewSok\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Test\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\FixedCopy29-11\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\FixedCopy29-11\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\FixedCopy29-11\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\FixedCopy29-11\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\FixedCopy29-11\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\FixedCopy29-11\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Downloads\1\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Downloads\1\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Downloads\1\bin\Debug\DeathWish.application
+C:\Users\Administrator\Downloads\1\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Downloads\1\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Downloads\1\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Downloads\1\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Downloads\1 (1)\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\TAE\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\TAE\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\TAE\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\TAE\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\TAE\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\TAE\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\TAE\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Test]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Light]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Sources\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Light]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Server[Light]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Server[Light]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Server[Light]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Server[Light]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Server[Light]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Server[Light]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Server[Light]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Source\GameServer\Server[Dark]\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Server[Dark]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\Server[Dark]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Server[Dark]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Server[Dark]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Server[Dark]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\Server[Dark]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\Server[Dark]\obj\x86\Debug\DeathWish.pdb
+D:\Source\Server[Dark]\bin\Debug\DeathWish.exe.config
+D:\Source\Server[Dark]\bin\Debug\DeathWish.exe.manifest
+D:\Source\Server[Dark]\bin\Debug\DeathWish.application
+D:\Source\Server[Dark]\bin\Debug\DeathWish.exe
+D:\Source\Server[Dark]\bin\Debug\DeathWish.pdb
+D:\Source\Server[Dark]\bin\Debug\en\DeathWish.resources.dll
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.Chi.resources
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.Controlpanel.resources
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.JiangHu.resources
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+D:\Source\Server[Dark]\obj\x86\Debug\en\DeathWish.resources.dll
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.exe.manifest
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.application
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.exe
+D:\Source\Server[Dark]\obj\x86\Debug\DeathWish.pdb
+D:\Source\DIABLO\bin\Debug\DeathWish.exe.config
+D:\Source\DIABLO\bin\Debug\DeathWish.exe.manifest
+D:\Source\DIABLO\bin\Debug\DeathWish.application
+D:\Source\DIABLO\bin\Debug\DeathWish.exe
+D:\Source\DIABLO\bin\Debug\DeathWish.pdb
+D:\Source\DIABLO\bin\Debug\en\DeathWish.resources.dll
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.Properties.Resources.resources
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.Chi.resources
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.Controlpanel.resources
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.JiangHu.resources
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+D:\Source\DIABLO\obj\x86\Debug\en\DeathWish.resources.dll
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.exe.manifest
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.application
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.exe
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.pdb
+D:\Source\DIABLO\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+D:\DIABLO\bin\Debug\DeathWish.exe.config
+D:\DIABLO\bin\Debug\DeathWish.exe.manifest
+D:\DIABLO\bin\Debug\DeathWish.application
+D:\DIABLO\bin\Debug\DeathWish.exe
+D:\DIABLO\bin\Debug\DeathWish.pdb
+D:\DIABLO\bin\Debug\en\DeathWish.resources.dll
+D:\DIABLO\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+D:\DIABLO\obj\x86\Debug\DeathWish.Properties.Resources.resources
+D:\DIABLO\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+D:\DIABLO\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+D:\DIABLO\obj\x86\Debug\DeathWish.Chi.resources
+D:\DIABLO\obj\x86\Debug\DeathWish.Controlpanel.resources
+D:\DIABLO\obj\x86\Debug\DeathWish.JiangHu.resources
+D:\DIABLO\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+D:\DIABLO\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+D:\DIABLO\obj\x86\Debug\en\DeathWish.resources.dll
+D:\DIABLO\obj\x86\Debug\DeathWish.exe.manifest
+D:\DIABLO\obj\x86\Debug\DeathWish.application
+D:\DIABLO\obj\x86\Debug\DeathWish.exe
+D:\DIABLO\obj\x86\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.pdb
+E:\NewThread\Source[DIABLO]\bin\Debug\DeathWish.exe.config
+E:\NewThread\Source[DIABLO]\bin\Debug\DeathWish.exe.manifest
+E:\NewThread\Source[DIABLO]\bin\Debug\DeathWish.application
+E:\NewThread\Source[DIABLO]\bin\Debug\DeathWish.exe
+E:\NewThread\Source[DIABLO]\bin\Debug\DeathWish.pdb
+E:\NewThread\Source[DIABLO]\bin\Debug\en\DeathWish.resources.dll
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Chi.resources
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\en\DeathWish.resources.dll
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.exe.manifest
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.application
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.exe
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.pdb
+E:\NewThread\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+E:\Co[DIABLO]\Source[DIABLO]\bin\Debug\DeathWish.exe.config
+E:\Co[DIABLO]\Source[DIABLO]\bin\Debug\DeathWish.exe.manifest
+E:\Co[DIABLO]\Source[DIABLO]\bin\Debug\DeathWish.application
+E:\Co[DIABLO]\Source[DIABLO]\bin\Debug\DeathWish.exe
+E:\Co[DIABLO]\Source[DIABLO]\bin\Debug\DeathWish.pdb
+E:\Co[DIABLO]\Source[DIABLO]\bin\Debug\en\DeathWish.resources.dll
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.Chi.resources
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\en\DeathWish.resources.dll
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.exe.manifest
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.application
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.exe
+E:\Co[DIABLO]\Source[DIABLO]\obj\x86\Debug\DeathWish.pdb
+E:\Source[DIABLO]\bin\Debug\DeathWish.exe.config
+E:\Source[DIABLO]\bin\Debug\DeathWish.exe.manifest
+E:\Source[DIABLO]\bin\Debug\DeathWish.application
+E:\Source[DIABLO]\bin\Debug\DeathWish.exe
+E:\Source[DIABLO]\bin\Debug\DeathWish.pdb
+E:\Source[DIABLO]\bin\Debug\en\DeathWish.resources.dll
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.Chi.resources
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\Source[DIABLO]\obj\x86\Debug\en\DeathWish.resources.dll
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.exe.manifest
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.application
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.exe
+E:\Source[DIABLO]\obj\x86\Debug\DeathWish.pdb
+D:\DIABLO\Source[DIABLO]\bin\Debug\DeathWish.exe.config
+D:\DIABLO\Source[DIABLO]\bin\Debug\DeathWish.exe.manifest
+D:\DIABLO\Source[DIABLO]\bin\Debug\DeathWish.application
+D:\DIABLO\Source[DIABLO]\bin\Debug\DeathWish.exe
+D:\DIABLO\Source[DIABLO]\bin\Debug\DeathWish.pdb
+D:\DIABLO\Source[DIABLO]\bin\Debug\en\DeathWish.resources.dll
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.Chi.resources
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.Controlpanel.resources
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.JiangHu.resources
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\en\DeathWish.resources.dll
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.exe.manifest
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.application
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CopyComplete
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.exe
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.pdb
+E:\New folder\Source[DIABLO]\bin\Debug\DeathWish.exe.config
+E:\New folder\Source[DIABLO]\bin\Debug\DeathWish.exe.manifest
+E:\New folder\Source[DIABLO]\bin\Debug\DeathWish.application
+E:\New folder\Source[DIABLO]\bin\Debug\DeathWish.exe
+E:\New folder\Source[DIABLO]\bin\Debug\DeathWish.pdb
+E:\New folder\Source[DIABLO]\bin\Debug\en\DeathWish.resources.dll
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.Chi.resources
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\New folder\Source[DIABLO]\obj\x86\Debug\en\DeathWish.resources.dll
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.exe.manifest
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.application
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.exe
+E:\New folder\Source[DIABLO]\obj\x86\Debug\DeathWish.pdb
+D:\DIABLO\Source[DIABLO]\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GameServer\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\GameServer\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\GameServer\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\GameServer\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\GameServer\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\GameServer\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\GameServer\obj\x86\Debug\DeathWish.pdb
+E:\SomeEdits\GameServer\bin\Debug\DeathWish.exe.config
+E:\SomeEdits\GameServer\bin\Debug\DeathWish.exe.manifest
+E:\SomeEdits\GameServer\bin\Debug\DeathWish.application
+E:\SomeEdits\GameServer\bin\Debug\DeathWish.exe
+E:\SomeEdits\GameServer\bin\Debug\DeathWish.pdb
+E:\SomeEdits\GameServer\bin\Debug\en\DeathWish.resources.dll
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.Chi.resources
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\SomeEdits\GameServer\obj\x86\Debug\en\DeathWish.resources.dll
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.exe.manifest
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.application
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.exe
+E:\SomeEdits\GameServer\obj\x86\Debug\DeathWish.pdb
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.Chi.resources
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.exe
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.pdb
+E:\A-New\GameServer\bin\Debug\DeathWish.exe.config
+E:\A-New\GameServer\bin\Debug\DeathWish.exe.manifest
+E:\A-New\GameServer\bin\Debug\DeathWish.application
+E:\A-New\GameServer\bin\Debug\DeathWish.exe
+E:\A-New\GameServer\bin\Debug\DeathWish.pdb
+E:\A-New\GameServer\bin\Debug\en\DeathWish.resources.dll
+E:\A-New\GameServer\obj\x86\Debug\en\DeathWish.resources.dll
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.exe.manifest
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.application
+E:\A-New\GameServer\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.exe
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.pdb
+E:\A-New\GameServer[New]\GameServer\bin\Debug\DeathWish.exe.config
+E:\A-New\GameServer[New]\GameServer\bin\Debug\DeathWish.exe.manifest
+E:\A-New\GameServer[New]\GameServer\bin\Debug\DeathWish.application
+E:\A-New\GameServer[New]\GameServer\bin\Debug\DeathWish.exe
+E:\A-New\GameServer[New]\GameServer\bin\Debug\DeathWish.pdb
+E:\A-New\GameServer[New]\GameServer\bin\Debug\en\DeathWish.resources.dll
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\en\DeathWish.resources.dll
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.exe.manifest
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.application
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+E:\A-New\GameServer[New]\GameServer\obj\x86\Debug\DeathWish.Chi.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\bin\Debug\DeathWish.exe.config
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\bin\Debug\DeathWish.exe.manifest
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\bin\Debug\DeathWish.application
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\bin\Debug\DeathWish.exe
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\bin\Debug\DeathWish.pdb
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\bin\Debug\en\DeathWish.resources.dll
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.Properties.Resources.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.Chi.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.Controlpanel.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.JiangHu.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\en\DeathWish.resources.dll
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.exe.manifest
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.application
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.csproj.CopyComplete
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.exe
+E:\A-New\GameServer[New]\GameServer[14-10]\GameServer\obj\x86\Debug\DeathWish.pdb
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe.config
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe.manifest
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.application
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.pdb
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\bin\Debug\en\DeathWish.resources.dll
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.csproj.AssemblyReference.cache
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.Properties.Resources.resources
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.Chi.resources
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.Controlpanel.resources
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.JiangHu.resources
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.csproj.GenerateResource.cache
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.csproj.CoreCompileInputs.cache
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\en\DeathWish.resources.dll
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.exe.manifest
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.application
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.csproj.Up2Date
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.exe
+C:\Users\pezzi\Desktop\Source Package v.6609\GameServer\obj\x86\Debug\DeathWish.pdb

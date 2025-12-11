@@ -1,0 +1,18 @@
+----Exception message----
+Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+----End of exception message----
+
+----Stack trace----
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.Driver.Open()
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en COServer.Database.MySqlCommand.Execute() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\System\Mysql\MySqlCommand.cs:línea 344
+   en DeathWish.Threading.WorldTournaments.Handle() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\ThreadCollection\Collection\Functions\WorldTournaments.cs:línea 30
+----End of stack trace----
+

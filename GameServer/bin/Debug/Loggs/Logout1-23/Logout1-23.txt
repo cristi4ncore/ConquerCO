@@ -1,0 +1,7 @@
+[Logout]4H:10M :20S  pid: 1033464 DIABLO [ Log out  ]  
+[Logout]18H:15M :12S  pid: 1033464 DIABLO [ Log out  ]  
+[Logout]18H:18M :42S  pid: 1033464 DIABLO [ Log out  ]  
+[Logout]18H:36M :38S  pid: 1033464 DIABLO [ Log out  ]  
+[Logout]18H:37M :35S  pid: 1033464 DIABLO [ Log out  ]  
+[Logout]18H:38M :23S  pid: 1033464 DIABLO [ Log out  ]  
+[Logout]18H:40M :9S  pid: 1033464 DIABLO [ Log out  ]  

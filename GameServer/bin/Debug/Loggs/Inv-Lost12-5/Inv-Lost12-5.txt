@@ -1,0 +1,2756 @@
+[Inv-Lost] 19H:1M pid:   1000004  PezziDev Lost  3100011 
+
+[Inv-Lost] 19H:49M pid:   1000003  Fosforocore Lost  3001027 
+
+[Inv-Lost] 19H:49M pid:   1000003  Fosforocore Lost  727266 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  3005160 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  3005161 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  3005164 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  3005167 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  421009 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  152019 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  121029 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  160019 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  134009 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  201009 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  202009 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  203009 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  204009 
+
+[Inv-Lost] 19H:50M pid:   1000003  Fosforocore Lost  114009 
+
+[Inv-Lost] 19H:52M pid:   1000003  Fosforocore Lost  421079 
+
+[Inv-Lost] 19H:52M pid:   1000003  Fosforocore Lost  193275 
+
+[Inv-Lost] 20H:20M pid:   1000003  Fosforocore Lost  3100011 
+
+[Inv-Lost] 20H:23M pid:   1000003  Fosforocore Lost  3005119 
+
+[Inv-Lost] 20H:23M pid:   1000003  Fosforocore Lost  3001264 
+
+[Inv-Lost] 20H:24M pid:   1000003  Fosforocore Lost  3005123 
+
+[Inv-Lost] 20H:24M pid:   1000003  Fosforocore Lost  3005120 
+
+[Inv-Lost] 20H:24M pid:   1000003  Fosforocore Lost  3005118 
+
+[Inv-Lost] 20H:24M pid:   1000003  Fosforocore Lost  3005117 
+
+[Inv-Lost] 20H:24M pid:   1000003  Fosforocore Lost  1200000 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  3004036 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  3004035 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  729477 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  729476 
+
+[Inv-Lost] 20H:37M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:38M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:38M pid:   1000003  Fosforocore Lost  3004035 
+
+[Inv-Lost] 20H:38M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:38M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 20H:38M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 20H:38M pid:   1000003  Fosforocore Lost  727839 
+
+[Inv-Lost] 20H:38M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727839 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727839 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  729477 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  729476 
+
+[Inv-Lost] 20H:39M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 20H:40M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 20H:40M pid:   1000003  Fosforocore Lost  729477 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  727266 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  201009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  202009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  203009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  626009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  626009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  120009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  150019 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  160019 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  101009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  170009 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  3005167 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  3005164 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  3005161 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  3005160 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  3001027 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  193735 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  193815 
+
+[Inv-Lost] 20H:40M pid:   1000005  maxi Lost  1200000 
+
+[Inv-Lost] 20H:50M pid:   1000003  Fosforocore Lost  3008733 
+
+[Inv-Lost] 20H:50M pid:   1000003  Fosforocore Lost  3301224 
+
+[Inv-Lost] 21H:4M pid:   1000005  maxi Lost  3005119 
+
+[Inv-Lost] 21H:4M pid:   1000005  maxi Lost  182905 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  700002 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  721052 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  721259 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  181405 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  188495 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  188175 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  134093 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  188495 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  134093 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  188175 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  134173 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  131093 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  723700 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  723700 
+
+[Inv-Lost] 21H:6M pid:   1000003  Fosforocore Lost  723700 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  723701 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  723017 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  711083 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  711083 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  711083 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  150233 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  421253 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  420253 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  151233 
+
+[Inv-Lost] 21H:7M pid:   1000003  Fosforocore Lost  150233 
+
+[Inv-Lost] 21H:8M pid:   1000003  Fosforocore Lost  2100025 
+
+[Inv-Lost] 21H:10M pid:   1000003  Fosforocore Lost  1060020 
+
+[Inv-Lost] 21H:11M pid:   1000003  Fosforocore Lost  1060039 
+
+[Inv-Lost] 21H:13M pid:   1000003  Fosforocore Lost  152169 
+
+[Inv-Lost] 21H:13M pid:   1000003  Fosforocore Lost  160159 
+
+[Inv-Lost] 21H:13M pid:   1000003  Fosforocore Lost  421169 
+
+[Inv-Lost] 21H:13M pid:   1000003  Fosforocore Lost  134079 
+
+[Inv-Lost] 21H:13M pid:   1000003  Fosforocore Lost  114079 
+
+[Inv-Lost] 21H:13M pid:   1000003  Fosforocore Lost  121189 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  421009 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  3005107 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1200000 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:14M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:16M pid:   1000003  Fosforocore Lost  3008733 
+
+[Inv-Lost] 21H:16M pid:   1000003  Fosforocore Lost  723713 
+
+[Inv-Lost] 21H:17M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 21H:20M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:20M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:20M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:24M pid:   1000005  maxi Lost  3001264 
+
+[Inv-Lost] 21H:24M pid:   1000005  maxi Lost  3005117 
+
+[Inv-Lost] 21H:24M pid:   1000005  maxi Lost  3005118 
+
+[Inv-Lost] 21H:24M pid:   1000005  maxi Lost  3005120 
+
+[Inv-Lost] 21H:24M pid:   1000005  maxi Lost  181425 
+
+[Inv-Lost] 21H:24M pid:   1000005  maxi Lost  3100011 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:40M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:41M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:42M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:43M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  134079 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:44M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:45M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:46M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:47M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:48M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:49M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:51M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:51M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:51M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:51M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  700013 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:52M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  202009 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  201009 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  203009 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  1200005 
+
+[Inv-Lost] 21H:55M pid:   1000003  Fosforocore Lost  421009 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:56M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 21H:57M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  1200000 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  723700 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  723700 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  711083 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  700122 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  723017 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  721259 
+
+[Inv-Lost] 22H:1M pid:   1000005  maxi Lost  721052 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  711083 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  711083 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  723701 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:2M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:3M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:4M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:5M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:6M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:8M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:9M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:10M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:11M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  720027 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088001 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:12M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:13M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:14M pid:   1000003  Fosforocore Lost  1088000 
+
+[Inv-Lost] 22H:15M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:16M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:17M pid:   1000003  Fosforocore Lost  725067 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:17M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:18M pid:   1000005  maxi Lost  204009 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:21M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:22M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:23M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:24M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:25M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:30M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:35M pid:   1000003  Fosforocore Lost  3001044 
+
+[Inv-Lost] 22H:35M pid:   1000003  Fosforocore Lost  3007110 
+
+[Inv-Lost] 22H:36M pid:   1000003  Fosforocore Lost  723715 
+
+[Inv-Lost] 22H:36M pid:   1000003  Fosforocore Lost  723342 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:39M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727839 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  729476 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  3004035 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  729477 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 22H:41M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:42M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:42M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:42M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727839 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  3004036 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  729476 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  3004035 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727839 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  729477 
+
+[Inv-Lost] 22H:44M pid:   1000003  Fosforocore Lost  727841 
+

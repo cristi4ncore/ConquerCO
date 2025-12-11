@@ -1,0 +1,71 @@
+﻿// * This Project Created by Mostafa Desha
+// * Copyright MostafaDesha © 2025
+
+
+using System;
+using System.IO;
+using System.Text;
+
+namespace AccServer.Database
+{
+    public unsafe class AccountTable
+    {
+        public enum AccountState : byte
+        {
+            NotActivated = 100,
+            ProjectManager = 255,
+            GameHelper = 5,
+            GameMaster = 3,
+            Player = 2,
+            Banned = 1,
+            Cheat = 80,
+            DoesntExist = 0
+        }
+        public string Username;
+        public string Password;
+        public string IP;
+        public AccountState State;
+        public uint EntityID;
+        public bool exists = false;
+        public bool Banned;
+    
+        public AccountTable(string username)
+        {
+            if (username == null) return;
+            Username = username;
+            Password = "";
+            IP = "";
+            State = AccountState.DoesntExist;
+            EntityID = 0;
+            using (var cmd = new MySqlCommand(MySqlCommandType.SELECT).Select("accounts").Where("Username", username))
+            using (var reader = new MySqlReader(cmd))
+            {
+                if (reader.Read())
+                {
+                    exists = true;
+                    Password = reader.ReadString("Password");
+                    IP = reader.ReadString("Ip");
+                    EntityID = reader.ReadUInt32("EntityID");
+                    State = (AccountState)reader.ReadInt32("State");
+                    if (State == (AccountState)1)
+                    {
+                        Banned = true;
+                    }
+                }
+            }
+        }
+        public static void UpdateIP(string account, string ip)
+        {
+            var builder = new MySqlCommand(MySqlCommandType.UPDATE).Update("accounts")
+                .Set("IP", ip)
+                .Where("Username", account);
+            builder.Execute();
+        }
+        public void Save()
+        {
+            using (var cmd = new MySqlCommand(MySqlCommandType.UPDATE))
+                cmd.Update("accounts").Set("EntityID", EntityID)
+                    .Where("Username", Username).Execute();
+        }
+    }
+}

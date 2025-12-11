@@ -1,0 +1,23 @@
+[GMLogs]DIABLO scroll bi 
+[GMLogs]PezziNinja life 
+[GMLogs]DeathCO rev 
+[GMLogs]DeathCO npcold 
+[GMLogs][GM]DeathCO[PM] npcold 
+[GMLogs][GM]DeathCO[PM] npcold1 
+[GMLogs][GM]DeathCO[PM] npcold1 
+[GMLogs][GM]DeathCO[PM] npcold1 
+[GMLogs][GM]DeathCO[PM] sobnpcold 
+[GMLogs][GM]DeathCO[PM] tele 1002 293 275 
+[GMLogs][GM]DeathCO[PM] tele 1002 293 275 0 
+[GMLogs][GM]DeathCO[PM] sobnpcold 
+[GMLogs][GM]DeathCO[PM] sobnpcold 
+[GMLogs][GM]DeathCO[PM] cps 99999 
+[GMLogs][GM]DeathCO[PM] scroll tc 
+[GMLogs][GM]DeathCO[PM] tc 
+[GMLogs][GM]DeathCO[PM] scroll tc 
+[GMLogs][GM]DeathCO[PM] sobnpc_audit 
+[GMLogs][GM]DeathCO[PM] sobnpc_audit 
+[GMLogs][GM]DeathCO[PM] sobnpc_clean 
+[GMLogs][GM]DeathCO[PM] scroll tc 
+[GMLogs][GM]DeathCO[PM] scroll tc 
+[GMLogs]PezziDev tc 

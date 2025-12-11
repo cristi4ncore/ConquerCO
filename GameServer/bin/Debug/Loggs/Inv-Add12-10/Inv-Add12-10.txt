@@ -1,0 +1,526 @@
+[Inv-Add] 17H:28M pid:  1000003  Fosforocore Get  188495 
+
+[Inv-Add] 17H:30M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 17H:30M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 17H:30M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 17H:30M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:30M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:30M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:32M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:33M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:34M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:35M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:44M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:45M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:46M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:47M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:50M pid:  1000003  Fosforocore Get  192745 
+
+[Inv-Add] 17H:50M pid:  1000003  Fosforocore Get  188515 
+
+[Inv-Add] 17H:50M pid:  1000003  Fosforocore Get  188715 
+
+[Inv-Add] 17H:51M pid:  1000003  Fosforocore Get  188715 
+
+[Inv-Add] 17H:51M pid:  1000003  Fosforocore Get  188715 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 17H:55M pid:  1000005  maxi Get  1088001 
+

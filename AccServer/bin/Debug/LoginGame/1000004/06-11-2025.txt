@@ -1,0 +1,40 @@
+---------------------------------------------------
+UIDAccount : 1000004
+UserName : 3
+Password : 3
+ServerName : YTConquer
+IPAccount : 26.147.180.40
+HDSerial : 02507BBA4CBE
+Log Time : 19:42:56
+Date: 06-11-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000004
+UserName : 3
+Password : 3
+ServerName : YTConquer
+IPAccount : 26.147.180.40
+HDSerial : 02507BBA4CBE
+Log Time : 19:44:53
+Date: 06-11-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000004
+UserName : 3
+Password : 3
+ServerName : YTConquer
+IPAccount : 26.147.180.40
+HDSerial : 02507BBA4CBE
+Log Time : 19:51:04
+Date: 06-11-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000004
+UserName : 3
+Password : 3
+ServerName : YTConquer
+IPAccount : 26.147.180.40
+HDSerial : 02507BBA4CBE
+Log Time : 19:51:52
+Date: 06-11-2025
+---------------------------------------------------

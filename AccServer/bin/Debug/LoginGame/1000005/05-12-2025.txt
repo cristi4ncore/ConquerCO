@@ -1,0 +1,70 @@
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 28CDC441AA17
+Log Time : 20:31:55
+Date: 05-12-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 28CDC441AA17
+Log Time : 20:39:10
+Date: 05-12-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 28CDC441AA17
+Log Time : 20:55:31
+Date: 05-12-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 28CDC441AA17
+Log Time : 21:01:42
+Date: 05-12-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 28CDC441AA17
+Log Time : 21:46:28
+Date: 05-12-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 28CDC441AA17
+Log Time : 22:01:02
+Date: 05-12-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 28CDC441AA17
+Log Time : 22:11:29
+Date: 05-12-2025
+---------------------------------------------------

@@ -1,0 +1,26 @@
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\bin\Debug\AccServer.exe.config
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\bin\Debug\AccServer.exe
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\bin\Debug\AccServer.pdb
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\obj\x64\Debug\AccServer.csproj.AssemblyReference.cache
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\obj\x64\Debug\AccServer.exe.config
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\obj\x64\Debug\AccServer.csproj.CoreCompileInputs.cache
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\obj\x64\Debug\AccServer.csproj.Up2Date
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\obj\x64\Debug\AccServer.exe
+C:\Users\pezzi\Desktop\Proyectos\Project V6609\AccServer\obj\x64\Debug\AccServer.pdb
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\bin\Debug\AccServer.exe.config
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\bin\Debug\AccServer.exe
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\bin\Debug\AccServer.pdb
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.csproj.AssemblyReference.cache
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.exe.config
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.csproj.CoreCompileInputs.cache
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.csproj.Up2Date
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.exe
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.pdb
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\bin\Debug\AccServer.exe.config
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\bin\Debug\AccServer.exe
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\bin\Debug\AccServer.pdb
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.csproj.AssemblyReference.cache
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.csproj.CoreCompileInputs.cache
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.csproj.Up2Date
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.exe
+C:\Users\Conquista\Desktop\Source Package v.6609\AccServer\obj\x64\Debug\AccServer.pdb

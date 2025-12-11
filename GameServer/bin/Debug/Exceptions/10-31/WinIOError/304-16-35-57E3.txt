@@ -1,0 +1,16 @@
+----Exception message----
+El proceso no puede obtener acceso al archivo 'C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\DB\Crime.ini' porque está siendo utilizado en otro proceso.
+----End of exception message----
+
+----Stack trace----
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   en System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   en System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   en DeathWish.Database.DBActions.Write.Execute(Mode mod) en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\DBActions\Write.cs:línea 58
+   en DeathWish.Database.TheCrimeTable.Save() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\TheCrimeTable.cs:línea 96
+   en DeathWish.Database.Server.Save(Action obj) en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\Server.cs:línea 999
+----End of stack trace----
+

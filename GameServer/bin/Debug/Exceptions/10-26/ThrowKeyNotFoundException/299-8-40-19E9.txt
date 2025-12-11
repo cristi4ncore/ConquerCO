@@ -1,0 +1,13 @@
+----Exception message----
+La clave proporcionada no se encontró en el diccionario.
+----End of exception message----
+
+----Stack trace----
+   en System.ThrowHelper.ThrowKeyNotFoundException()
+   en System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   en DeathWish.Game.MsgTournaments.MsgSmallGuildWar.Load() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Game\MsgTournaments\MsgSmallGuildWar.cs:línea 32
+   en DeathWish.Database.NpcServer.LoadSobNpcs() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\NpcServer.cs:línea 112
+   en DeathWish.Database.Server.Initialize() en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Database\Server.cs:línea 305
+   en DeathWish.Program.Main(String[] args) en C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\Program.cs:línea 316
+----End of stack trace----
+

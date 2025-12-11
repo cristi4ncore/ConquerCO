@@ -1,0 +1,304 @@
+public static string CalculateSHA1(string text)
+        {
+            return CalculateSHA1(text, Encoding.ASCII);
+        }
+
+        public static string CalculateSHA1(string text, Encoding encoding)
+        {
+            byte[] inputBytes = encoding.GetBytes(text);
+            using (var provider = new SHA1CryptoServiceProvider())
+            {
+                var hash = provider.ComputeHash(inputBytes);
+                return hash.ToHex();
+            }
+        }
+
+
+namespace Framework.Cryptography
+{
+    public class SRP6 : IDisposable
+    {
+        public byte[] B { get; private set; }
+        public byte[] K { get; private set; }
+        public byte[] M2 { get; private set; }
+
+        public readonly BigInteger g;
+        public readonly BigInteger k;
+
+        public readonly byte[] N;
+        public readonly byte[] Salt;
+
+        protected readonly SHA1 Sha1;
+        protected BigInteger A;
+        protected BigInteger BN;
+        protected BigInteger v;
+        protected BigInteger b;
+        protected BigInteger s;
+
+        public SRP6()
+        {
+            Sha1 = new SHA1Managed();
+
+            N = new byte[]
+            {
+                0x89, 0x4B, 0x64, 0x5E, 0x89, 0xE1, 0x53, 0x5B, 0xBD, 0xAD, 0x5B, 0x8B, 0x29, 0x06, 0x50, 0x53,
+                0x08, 0x01, 0xB1, 0x8E, 0xBF, 0xBF, 0x5E, 0x8F, 0xAB, 0x3C, 0x82, 0x87, 0x2A, 0x3E, 0x9B, 0xB7,
+            };
+
+            Salt = new byte[]
+            {
+                0xAD, 0xD0, 0x3A, 0x31, 0xD2, 0x71, 0x14, 0x46, 0x75, 0xF2, 0x70, 0x7E, 0x50, 0x26, 0xB6, 0xD2,
+                0xF1, 0x86, 0x59, 0x99, 0x76, 0x02, 0x50, 0xAA, 0xB9, 0x45, 0xE0, 0x9E, 0xDD, 0x2A, 0xA3, 0x45
+            };
+
+            BN = MakeBigInteger(N);
+            g = MakeBigInteger(new byte[] { 7 });
+            k = MakeBigInteger(new byte[] { 3 });
+        }
+
+        public void CalculateX(string userName, string password)
+        {
+            var p = Encoding.UTF8.GetBytes(userName + ":" + password);
+            var x = MakeBigInteger(Sha1.ComputeHash(CombineData(Salt, Sha1.ComputeHash(p))));
+
+            CalculateV(x);
+        }
+
+        void CalculateV(BigInteger x)
+        {
+            v = BigInteger.ModPow(g, x, BN);
+
+            CalculateB(); 
+        }
+
+        void CalculateB()
+        {
+            var randBytes = new byte[20];
+
+            var random = RNGCryptoServiceProvider.Create();
+            random.GetBytes(randBytes);
+
+            b = MakeBigInteger(randBytes);
+            B = GetBytes(((k * v + BigInteger.ModPow(g, b, BN)) % BN).ToByteArray());
+        }
+
+        public void CalculateU(byte[] a)
+        {
+            A = MakeBigInteger(a);
+
+            CalculateS(MakeBigInteger(Sha1.ComputeHash(CombineData(a, B))));
+        }
+
+        void CalculateS(BigInteger u)
+        {
+            s = BigInteger.ModPow(A * BigInteger.ModPow(v, u, BN), b, BN);
+
+            CalculateK();
+        }
+
+        public void CalculateK()
+        {
+            var sBytes = GetBytes(s.ToByteArray());
+
+            var part1 = new byte[sBytes.Length / 2];
+            var part2 = new byte[sBytes.Length / 2];
+
+            for (int i = 0; i < part1.Length; i++)
+            {
+                part1[i] = sBytes[i * 2];
+                part2[i] = sBytes[i * 2 + 1];
+            }
+
+            part1 = Sha1.ComputeHash(part1);
+            part2 = Sha1.ComputeHash(part2);
+
+            K = new byte[part1.Length + part2.Length];
+
+            for (int i = 0; i < part1.Length; i++)
+            {
+                K[i * 2] = part1[i];
+                K[i * 2 + 1] = part2[i];
+            }
+        }
+
+        public void CalculateM2(byte[] m1)
+        {
+            M2 = Sha1.ComputeHash(CombineData(CombineData(GetBytes(A.ToByteArray()), m1), K));
+        }
+
+        public byte[] GetBytes(byte[] data, int count = 32)
+        {
+            if (data.Length == count)
+                return data;
+
+            var bytes = new byte[count];
+
+            Buffer.BlockCopy(data, 0, bytes, 0, 32);
+
+            return bytes;
+        }
+
+        public BigInteger MakeBigInteger(byte[] data)
+        {
+            return new BigInteger(CombineData(data, new byte[] { 0 }));
+        }
+
+        public byte[] CombineData(byte[] data, byte[] data2)
+        {
+            return new byte[0].Concat(data).Concat(data2).ToArray();
+        }
+
+        public void Dispose()
+        {
+            K = null;
+            M2 = null;
+        }
+    }
+}
+
+
+		Srp6::Srp6() : g((uint32) 7) {
+			N = Crypt::BigNumber("large prime");
+			k = Crypt::BigNumber(Crypt::SHA256()(N, g).finalize().getDigest());
+		}
+
+		void Srp6::createHandshake(const String& username, const String& password) {
+			mUsername = username;
+			a.setRandom(256);
+
+			String hashx = "something with username and password";
+			
+			x = Crypt::BigNumber(Crypt::SHA256()(hashx).finalize().getDigest());
+			A = g.modExp(a, N);
+
+			sLog->notice("SRP-6", "A: ", A.toHexString());
+		}
+
+		void Srp6::onChallenge(const Crypt::BigNumber& s, const Crypt::BigNumber& B) {
+			auto u = Crypt::BigNumber(Crypt::SHA256()(A, B).finalize().getDigest());
+
+			auto S = (B - k * g.modExp(x, N)).modExp(a + u * x, N);
+			K = Crypt::BigNumber(Crypt::SHA256()(S).finalize().getDigest());
+			sLog->notice("SRP-6", "K: ", K.toHexString());
+
+			Crypt::SHA256 hn, hg, hI;
+			std::vector<uint8> NxorG(Crypt::SHA256::DigestLen);
+			auto& bn = hn(N).finalize().getDigest();
+			auto& bg = hg(g).finalize().getDigest();
+			auto& bI = hI(mUsername.toUpper()).finalize().getDigest();
+
+			for (uint32 i = 0; i < NxorG.size(); ++i) {
+				NxorG[i] = bn[i] ^ bg[i];
+			}
+
+			Crypt::BigNumber nxg(NxorG);
+			Crypt::BigNumber hi(bI);
+
+			M = Crypt::BigNumber(Crypt::SHA256()(nxg, hi, s, A, B, K).finalize().getDigest());
+		}
+
+		bool Srp6::verifyServerProof(const Crypt::BigNumber& sm) {
+			Crypt::BigNumber hp(Crypt::SHA256()(A, M, K).finalize().getDigest());
+			return sm == hp;
+		}
+
+
+
+public static int i32Direction(int x1, int y1, int x2, int y2)
+        {
+            int nx = x1 - x2;
+            int ny = y1 - y2;
+            if (ny == 0)
+            {
+                if (nx <= 0)
+                    return 6;
+                else if (ny >= 0)
+                    return 2;
+            }
+            else if (nx == 0)
+            {
+                if (ny <= 0)
+                    return 0;
+                else if (ny >= 0)
+                    return 4;
+            }
+            else
+            {
+                if (nx < 0)
+                {
+                    if (ny < 0)
+                        return 7;
+                    else //if (ny > 0)
+                        return 5;
+                }
+                else if (nx > 0)
+                {
+                    if (ny > 0)
+                        return 3;
+                    else //if (ny < 0)
+                        return 1;
+                }
+            }
+            return 0;
+        }
+
+
+
+SetMapLocation = 74,
+        GetItemSet = 75,
+        ConfirmAssociates = 76,
+        ConfirmProficiencies = 77,
+        ConfirmSpells = 78,
+        ChangeDirection = 79,
+        ChangeAction = 81,
+        EnterPortal = 85,
+        Teleport = 86,
+        LevelUp = 92,
+        EndXp = 93,
+        Revive = 94,
+        DeleteCharacter = 95,
+        ChangePkMode = 96,
+        ConfirmGuild = 97,
+        Mining = 99,
+        TeamLeaderLocation = 101,
+        RequestEntity = 102,
+        BeginXp = 103,
+        CompleteMapChange = 104,
+        RequestTeamPosition = 106,
+        ChangeLocation = 108,
+        UnlearnSpell = 109,
+        UnlearnProficiency = 110,
+        StartVend = 111,
+        ExitShopMode = 114,
+        Switch = 116,
+        EndTransformation = 118,
+        EndFly = 120,
+        PlaySound = 124,
+        GuiDialog = 126,
+        GuardJump = 130,
+        Login = 132,
+        SpawnEffect = 134,
+        RemoveEntity = 135,
+        Jump = 137,
+        FriendInfo = 140,
+        ClientConfirmDeath = 145,
+        RequestTeleport = 146,
+        RequestFriendInfo = 148,
+        ChangeAvatar = 151,
+        PKItemRewardEffect = 155,
+        PKItemDetainEffect = 154,
+        NinjaStep = 156,
+        UpdatePosition = 157,
+        OpenGuiWindow = 160,
+        Away = 161,
+        Pathfind = 162,
+        TimestampInit = 205,
+        TimestampInit2 = 206,
+        //KeepAlive = 207,
+        Unk_235 = 235,
+        Unk_250 = 250,
+        NewClientCheck = 251,
+        Unk_401 = 401,
+        Unk_402 = 402,
+        Unk_403 = 403,
+        RequestLowDurabilityInfo = 408,

@@ -1,0 +1,322 @@
+
+
+Line 32 | Cols=11 | UID=97972 | Name=[Rank] | Type=2 | Mesh=50680 | Map= | X=428 | Y=378
+  Issues: Map !int/empty; Map empty
+  Raw: 97972,[Rank],2,50680,,428,378,0,0,1,1
+
+Line 57 | Cols=11 | UID=16849 | Name=Savage Bone | Type=2 | Mesh=42420 | Map= | X=170 | Y=234
+  Issues: Map !int/empty; Map empty
+  Raw: 16849,Savage Bone,2,42420,,170,234,0,0,1,1
+
+Line 58 | Cols=11 | UID=9983 | Name=Level[140] | Type=2 | Mesh=2166 | Map= | X=211 | Y=205
+  Issues: Map !int/empty; Map empty
+  Raw: 9983,Level[140],2,2166,,211,205,0,0,1,1
+
+Line 59 | Cols=11 | UID=15648 | Name=[Share-Pts] | Type=2 | Mesh=50180 | Map= | X=60 | Y=54
+  Issues: Map !int/empty; Map empty
+  Raw: 15648,[Share-Pts],2,50180,,60,54,0,0,1,1
+
+Line 63 | Cols=11 | UID=20826 | Name=MountChange | Type=2 | Mesh=51560 | Map= | X=999 | Y=1263
+  Issues: Map !int/empty; Map empty
+  Raw: 20826,MountChange,2,51560,,999,1263,0,0,1,1
+
+Line 64 | Cols=11 | UID=20826 | Name=[MountRare] | Type=2 | Mesh=49410 | Map= | X=45 | Y=77
+  Issues: Map !int/empty; Map empty
+  Raw: 20826,[MountRare],2,49410,,45,77,0,0,1,1
+
+Line 66 | Cols=11 | UID=20546 | Name=AccesoryRare | Type=2 | Mesh=49410 | Map= | X=50 | Y=78
+  Issues: Map !int/empty; Map empty
+  Raw: 20546,AccesoryRare,2,49410,,50,78,0,0,1,1
+
+Line 68 | Cols=11 | UID=20824 | Name=YuKoOn | Type=2 | Mesh=29210 | Map=10250 | X= | Y=1281
+  Issues: X !int/empty; X empty
+  Raw: 20824,YuKoOn,2,29210,10250,,1281,0,0,1,1
+
+Line 69 | Cols=11 | UID=2291 | Name=PirateToken | Type=2 | Mesh=51560 | Map= | X=299 | Y=290
+  Issues: Map !int/empty; Map empty
+  Raw: 2291,PirateToken,2,51560,,299,290,0,0,1,1
+
+Line 70 | Cols=11 | UID=2290 | Name=CupDealer | Type=2 | Mesh=51560 | Map= | X=292 | Y=258
+  Issues: Map !int/empty; Map empty
+  Raw: 2290,CupDealer,2,51560,,292,258,0,0,1,1
+
+Line 73 | Cols=11 | UID=30015 | Name=Seller | Type=2 | Mesh=31256 | Map= | X=44 | Y=70
+  Issues: Map !int/empty; Map empty
+  Raw: 30015,Seller,2,31256,,44,70,0,0,1,1
+
+Line 82 | Cols=11 | UID=22088 | Name=ShopGold | Type=1 | Mesh=8500 | Map= | X=313 | Y=279
+  Issues: Map !int/empty; Map empty
+  Raw: 22088,ShopGold,1,8500,,313,279,0,0,1,1
+
+Line 83 | Cols=11 | UID=22904 | Name=Break-Strike | Type=2 | Mesh=50140 | Map= | X=151 | Y=235
+  Issues: Map !int/empty; Map empty
+  Raw: 22904,Break-Strike,2,50140,,151,235,0,0,1,1
+
+Line 84 | Cols=11 | UID=52000 | Name=TreasureThief | Type=2 | Mesh=51560 | Map= | X=322 | Y=258
+  Issues: Map !int/empty; Map empty
+  Raw: 52000,TreasureThief,2,51560,,322,258,0,0,1,1
+
+Line 86 | Cols=11 | UID=57888 | Name=WarofPlayer | Type=2 | Mesh=8500 | Map= | X=300 | Y=258
+  Issues: Map !int/empty; Map empty
+  Raw: 57888,WarofPlayer,2,8500,,300,258,0,0,1,1
+
+Line 87 | Cols=11 | UID=50561 | Name=WinBestKiller | Type=2 | Mesh=29506 | Map= | X=82 | Y=112
+  Issues: Map !int/empty; Map empty
+  Raw: 50561,WinBestKiller,2,29506,,82,112,0,0,1,1
+
+Line 90 | Cols=11 | UID=7751 | Name=HpSeller | Type=2 | Mesh=29500 | Map= | X=305 | Y=233
+  Issues: Map !int/empty; Map empty
+  Raw: 7751,HpSeller,2,29500,,305,233,0,0,1,1
+
+Line 91 | Cols=11 | UID=7752 | Name=TournamentPoints | Type=2 | Mesh=29500 | Map= | X=68 | Y=46
+  Issues: Map !int/empty; Map empty
+  Raw: 7752,TournamentPoints,2,29500,,68,46,0,0,1,1
+
+Line 92 | Cols=11 | UID=7753 | Name=TotalOnline | Type=2 | Mesh=29500 | Map= | X=70 | Y=46
+  Issues: Map !int/empty; Map empty
+  Raw: 7753,TotalOnline,2,29500,,70,46,0,0,1,1
+
+Line 93 | Cols=11 | UID=7754 | Name=ChangeCharacter | Type=2 | Mesh=29500 | Map= | X=315 | Y=231
+  Issues: Map !int/empty; Map empty
+  Raw: 7754,ChangeCharacter,2,29500,,315,231,0,0,1,1
+
+Line 94 | Cols=11 | UID=5569 | Name=WingOrTitle | Type=2 | Mesh=19450 | Map= | X=329 | Y=245
+  Issues: Map !int/empty; Map empty
+  Raw: 5569,WingOrTitle,2,19450,,329,245,0,0,1,1
+
+Line 95 | Cols=11 | UID=1231 | Name=BoxCps | Type=2 | Mesh=35690 | Map= | X=68 | Y=35
+  Issues: Map !int/empty; Map empty
+  Raw: 1231,BoxCps,2,35690,,68,35,0,0,1,1
+
+Line 96 | Cols=11 | UID=1233 | Name=BoxPerfction | Type=2 | Mesh=35690 | Map= | X=349 | Y=245
+  Issues: Map !int/empty; Map empty
+  Raw: 1233,BoxPerfction,2,35690,,349,245,0,0,1,1
+
+Line 97 | Cols=11 | UID=1232 | Name=BoxMoney | Type=2 | Mesh=35690 | Map= | X=68 | Y=67
+  Issues: Map !int/empty; Map empty
+  Raw: 1232,BoxMoney,2,35690,,68,67,0,0,1,1
+
+Line 98 | Cols=11 | UID=2534 | Name=FightersPoleWar | Type=2 | Mesh=19450 | Map= | X=336 | Y=134
+  Issues: Map !int/empty; Map empty
+  Raw: 2534,FightersPoleWar,2,19450,,336,134,0,0,1,1
+
+Line 99 | Cols=11 | UID=770005 | Name=ClanWar | Type=2 | Mesh=38427 | Map= | X=284 | Y=142
+  Issues: Map !int/empty; Map empty
+  Raw: 770005,ClanWar,2,38427,,284,142,0,0,1,1
+
+Line 100 | Cols=11 | UID=8301 | Name=PoleDomination | Type=21 | Mesh=8686 | Map= | X=611 | Y=589
+  Issues: Map !int/empty; Map empty
+  Raw: 8301,PoleDomination,21,8686,,611,589,30000000,30000000,17,1
+
+Line 101 | Cols=10 | UID= | Name=21 | Type=8686 | Mesh=1020 | Map=60 | X=89 | Y=30000000
+  Issues: UID !int/empty; Y out-of-range
+  Raw: ,21,8686,1020,60,89,30000000,30000000,17,1
+
+Line 102 | Cols=11 | UID=770001 | Name=PoleDomination | Type=2 | Mesh=29724 | Map= | X=307 | Y=165
+  Issues: Map !int/empty; Map empty
+  Raw: 770001,PoleDomination,2,29724,,307,165,0,0,1,1
+
+Line 113 | Cols=11 | UID=6524 | Name=UnionPoleWar | Type=2 | Mesh=29724 | Map= | X=295 | Y=166
+  Issues: Map !int/empty; Map empty
+  Raw: 6524,UnionPoleWar,2,29724,,295,166,0,0,1,1
+
+Line 122 | Cols=11 | UID=5561 | Name=ItemWardrope | Type=2 | Mesh=21864 | Map= | X=63 | Y=63
+  Issues: Map !int/empty; Map empty
+  Raw: 5561,ItemWardrope,2,21864,,63,63,0,0,1,1
+
+Line 123 | Cols=11 | UID=1677 | Name=Germ/Mou/Acces | Type=2 | Mesh=36550 | Map= | X=318 | Y=258
+  Issues: Map !int/empty; Map empty
+  Raw: 1677,Germ/Mou/Acces,2,36550,,318,258,0,0,1,1
+
+Line 124 | Cols=11 | UID=545648 | Name=NewSeller | Type=2 | Mesh=36550 | Map= | X=308 | Y=258
+  Issues: Map !int/empty; Map empty
+  Raw: 545648,NewSeller,2,36550,,308,258,0,0,1,1
+
+Line 130 | Cols=11 | UID=1671 | Name=GermentRare | Type=2 | Mesh=49410 | Map= | X=309 | Y=245
+  Issues: Map !int/empty; Map empty
+  Raw: 1671,GermentRare,2,49410,,309,245,0,0,1,1
+
+Line 131 | Cols=11 | UID=1672 | Name=1StarMount | Type=2 | Mesh=49420 | Map= | X=63 | Y=71
+  Issues: Map !int/empty; Map empty
+  Raw: 1672,1StarMount,2,49420,,63,71,0,0,1,1
+
+Line 132 | Cols=11 | UID=1673 | Name=2StarMount | Type=2 | Mesh=49420 | Map= | X=59 | Y=71
+  Issues: Map !int/empty; Map empty
+  Raw: 1673,2StarMount,2,49420,,59,71,0,0,1,1
+
+Line 133 | Cols=11 | UID=1674 | Name=3StarMount | Type=2 | Mesh=49420 | Map= | X=55 | Y=71
+  Issues: Map !int/empty; Map empty
+  Raw: 1674,3StarMount,2,49420,,55,71,0,0,1,1
+
+Line 134 | Cols=11 | UID=1675 | Name=4StarMount | Type=2 | Mesh=49420 | Map= | X=51 | Y=71
+  Issues: Map !int/empty; Map empty
+  Raw: 1675,4StarMount,2,49420,,51,71,0,0,1,1
+
+Line 136 | Cols=11 | UID=12514 | Name=Chi-Epic | Type=2 | Mesh=50860 | Map= | X=32 | Y=40
+  Issues: Map !int/empty; Map empty
+  Raw: 12514,Chi-Epic,2,50860,,32,40,0,0,1,1
+
+Line 137 | Cols=11 | UID=1381 | Name=WarPoints | Type=2 | Mesh=29260 | Map= | X=334 | Y=294
+  Issues: Map !int/empty; Map empty
+  Raw: 1381,WarPoints,2,29260,,334,294,0,0,1,1
+
+Line 139 | Cols=11 | UID=14100 | Name=ChampionPoints | Type=2 | Mesh=29260 | Map= | X=334 | Y=288
+  Issues: Map !int/empty; Map empty
+  Raw: 14100,ChampionPoints,2,29260,,334,288,0,0,1,1
+
+Line 140 | Cols=11 | UID=770003 | Name=MonsterPoints | Type=2 | Mesh=29260 | Map= | X=334 | Y=297
+  Issues: Map !int/empty; Map empty
+  Raw: 770003,MonsterPoints,2,29260,,334,297,0,0,1,1
+
+Line 141 | Cols=11 | UID=545670 | Name=BankCps | Type=2 | Mesh=35930 | Map= | X=313 | Y=258
+  Issues: Map !int/empty; Map empty
+  Raw: 545670,BankCps,2,35930,,313,258,0,0,1,1
+
+Line 142 | Cols=11 | UID=10123 | Name=DIABLO-Event | Type=2 | Mesh=35930 | Map= | X=292 | Y=287
+  Issues: Map !int/empty; Map empty
+  Raw: 10123,DIABLO-Event,2,35930,,292,287,0,0,1,1
+
+Line 176 | Cols=11 | UID=6471 | Name=GoldStage | Type=21 | Mesh=1507 | Map= | X=37 | Y=38
+  Issues: Map !int/empty; Map empty
+  Raw: 6471,GoldStage,21,1507,,37,38,20,20,17,0
+
+Line 177 | Cols=11 | UID=6472 | Name=GoldStage | Type=21 | Mesh=1507 | Map= | X=61 | Y=38
+  Issues: Map !int/empty; Map empty
+  Raw: 6472,GoldStage,21,1507,,61,38,20,20,17,0
+
+Line 178 | Cols=11 | UID=6473 | Name=CpsStage | Type=21 | Mesh=1507 | Map= | X=67 | Y=74
+  Issues: Map !int/empty; Map empty
+  Raw: 6473,CpsStage,21,1507,,67,74,20,20,17,0
+
+Line 179 | Cols=11 | UID=6474 | Name=CpsStage | Type=21 | Mesh=1507 | Map= | X=38 | Y=74
+  Issues: Map !int/empty; Map empty
+  Raw: 6474,CpsStage,21,1507,,38,74,20,20,17,0
+
+Line 180 | Cols=11 | UID=20522 | Name=Top[Spouse-War] | Type=2 | Mesh=34600 | Map= | X=263 | Y=226
+  Issues: Map !int/empty; Map empty
+  Raw: 20522,Top[Spouse-War],2,34600,,263,226,0,0,1,1
+
+Line 182 | Cols=11 | UID=1256 | Name=MRBoy[TOP] | Type=2 | Mesh=50670 | Map= | X=288 | Y=190
+  Issues: Map !int/empty; Map empty
+  Raw: 1256,MRBoy[TOP],2,50670,,288,190,0,0,1,1
+
+Line 183 | Cols=11 | UID=1257 | Name=MRGirl[TOP] | Type=2 | Mesh=50680 | Map= | X=293 | Y=190
+  Issues: Map !int/empty; Map empty
+  Raw: 1257,MRGirl[TOP],2,50680,,293,190,0,0,1,1
+
+Line 186 | Cols=11 | UID=1995 | Name=QueenWorld[TOP] | Type=2 | Mesh=50350 | Map= | X=310 | Y=190
+  Issues: Map !int/empty; Map empty
+  Raw: 1995,QueenWorld[TOP],2,50350,,310,190,0,0,1,1
+
+Line 187 | Cols=11 | UID=1993 | Name=KingWorld[TOP] | Type=2 | Mesh=50340 | Map= | X=315 | Y=190
+  Issues: Map !int/empty; Map empty
+  Raw: 1993,KingWorld[TOP],2,50340,,315,190,0,0,1,1
+
+Line 196 | Cols=11 | UID=108129 | Name=Top[MonthlyPK] | Type=2 | Mesh=51930 | Map= | X=259 | Y=217
+  Issues: Map !int/empty; Map empty
+  Raw: 108129,Top[MonthlyPK],2,51930,,259,217,0,0,1,1
+
+Line 201 | Cols=11 | UID=18222 | Name=MR[Conquer] | Type=2 | Mesh=35630 | Map= | X=246 | Y=213
+  Issues: Map !int/empty; Map empty
+  Raw: 18222,MR[Conquer],2,35630,,246,213,0,0,1,1
+
+Line 202 | Cols=11 | UID=18223 | Name=MS[Conquer] | Type=2 | Mesh=35640 | Map= | X=251 | Y=213
+  Issues: Map !int/empty; Map empty
+  Raw: 18223,MS[Conquer],2,35640,,251,213,0,0,1,1
+
+Line 205 | Cols=11 | UID=19350 | Name=BoundItem | Type=2 | Mesh=50190 | Map= | X=313 | Y=279
+  Issues: Map !int/empty; Map empty
+  Raw: 19350,BoundItem,2,50190,,313,279,0,0,1,1
+
+Line 207 | Cols=11 | UID=6987 | Name=Vote | Type=2 | Mesh=33240 | Map= | X=322 | Y=299
+  Issues: Map !int/empty; Map empty
+  Raw: 6987,Vote,2,33240,,322,299,0,0,1,1
+
+Line 208 | Cols=11 | UID=22331 | Name=Change[DB] | Type=2 | Mesh=260 | Map= | X=301 | Y=266
+  Issues: Map !int/empty; Map empty
+  Raw: 22331,Change[DB],2,260,,301,266,0,0,1,1
+
+Line 217 | Cols=11 | UID=14016 | Name=Stuff+12 | Type=2 | Mesh=10095 | Map= | X=32 | Y=52
+  Issues: Map !int/empty; Map empty
+  Raw: 14016,Stuff+12,2,10095,,32,52,0,0,1,1
+
+Line 218 | Cols=11 | UID=14080 | Name=Stuff+255 | Type=2 | Mesh=29720 | Map= | X=55 | Y=50
+  Issues: Map !int/empty; Map empty
+  Raw: 14080,Stuff+255,2,29720,,55,50,0,0,1,1
+
+Line 219 | Cols=11 | UID=1400 | Name=Test | Type=2 | Mesh=29510 | Map= | X=62 | Y=52
+  Issues: Map !int/empty; Map empty
+  Raw: 1400,Test,2,29510,,62,52,0,0,1,1
+
+Line 220 | Cols=11 | UID=2000 | Name=CloudSaint | Type=2 | Mesh=2166 | Map= | X=212 | Y=199
+  Issues: Map !int/empty; Map empty
+  Raw: 2000,CloudSaint,2,2166,,212,199,0,0,1,1
+
+Line 222 | Cols=11 | UID=2289 | Name=Reincarnation | Type=2 | Mesh=2166 | Map= | X=211 | Y=209
+  Issues: Map !int/empty; Map empty
+  Raw: 2289,Reincarnation,2,2166,,211,209,0,0,1,1
+
+Line 227 | Cols=11 | UID=990999 | Name=HotItems | Type=1 | Mesh=29500 | Map= | X=335 | Y=247
+  Issues: Map !int/empty; Map empty
+  Raw: 990999,HotItems,1,29500,,335,247,0,0,1,1
+
+Line 228 | Cols=11 | UID=990909 | Name=Shop | Type=1 | Mesh=22440 | Map= | X=300 | Y=266
+  Issues: Map !int/empty; Map empty
+  Raw: 990909,Shop,1,22440,,300,266,0,0,1,1
+
+Line 229 | Cols=11 | UID=781 | Name=Arena | Type=2 | Mesh=22440 | Map= | X=300 | Y=266
+  Issues: Map !int/empty; Map empty
+  Raw: 781,Arena,2,22440,,300,266,0,0,1,1
+
+Line 236 | Cols=11 | UID=14017 | Name=JiangFull | Type=2 | Mesh=50090 | Map= | X=32 | Y=37
+  Issues: Map !int/empty; Map empty
+  Raw: 14017,JiangFull,2,50090,,32,37,0,0,1,1
+
+Line 240 | Cols=11 | UID=5788 | Name=HourTops | Type=2 | Mesh=22440 | Map= | X=293 | Y=279
+  Issues: Map !int/empty; Map empty
+  Raw: 5788,HourTops,2,22440,,293,279,0,0,1,1
+
+Line 255 | Cols=11 | UID=52005 | Name=Eliminated[F/S] | Type=2 | Mesh=50188 | Map= | X=317 | Y=247
+  Issues: Map !int/empty; Map empty
+  Raw: 52005,Eliminated[F/S],2,50188,,317,247,0,0,1,1
+
+Line 256 | Cols=11 | UID=52090 | Name=FreezeWar[F/S] | Type=2 | Mesh=50188 | Map= | X=325 | Y=247
+  Issues: Map !int/empty; Map empty
+  Raw: 52090,FreezeWar[F/S],2,50188,,325,247,0,0,1,1
+
+Line 257 | Cols=11 | UID=2287 | Name=PkReset | Type=2 | Mesh=8500 | Map= | X=86 | Y=73
+  Issues: Map !int/empty; Map empty
+  Raw: 2287,PkReset,2,8500,,86,73,0,0,1,1
+
+Line 259 | Cols=11 | UID=770004 | Name=SubClass | Type=2 | Mesh=29510 | Map= | X=334 | Y=247
+  Issues: Map !int/empty; Map empty
+  Raw: 770004,SubClass,2,29510,,334,247,0,0,1,1
+
+Line 261 | Cols=11 | UID=19112 | Name=Change[C/M/CB] | Type=2 | Mesh=19456 | Map= | X=288 | Y=304
+  Issues: Map !int/empty; Map empty
+  Raw: 19112,Change[C/M/CB],2,19456,,288,304,0,0,1,1
+
+Line 262 | Cols=11 | UID=88890 | Name=Nobility | Type=2 | Mesh=29490 | Map= | X=308 | Y=244
+  Issues: Map !int/empty; Map empty
+  Raw: 88890,Nobility,2,29490,,308,244,0,0,1,1
+
+Line 264 | Cols=11 | UID=52004 | Name=PkReset | Type=2 | Mesh=21864 | Map= | X=87 | Y=404
+  Issues: Map !int/empty; Map empty
+  Raw: 52004,PkReset,2,21864,,87,404,0,0,1,1
+
+Line 265 | Cols=11 | UID=52001 | Name=Football | Type=2 | Mesh=11556 | Map= | X=280 | Y=386
+  Issues: Map !int/empty; Map empty
+  Raw: 52001,Football,2,11556,,280,386,0,0,1,1
+
+Line 283 | Cols=11 | UID=666 | Name=DBShower | Type=2 | Mesh=34900 | Map= | X=318 | Y=141
+  Issues: Map !int/empty; Map empty
+  Raw: 666,DBShower,2,34900,,318,141,0,0,1,1
+
+Line 284 | Cols=11 | UID=777 | Name=TeamDeathMatch | Type=2 | Mesh=50225 | Map= | X=291 | Y=258
+  Issues: Map !int/empty; Map empty
+  Raw: 777,TeamDeathMatch,2,50225,,291,258,0,0,1,1
+
+Line 285 | Cols=11 | UID=780 | Name=KillerElite | Type=2 | Mesh=32315 | Map= | X=301 | Y=368
+  Issues: Map !int/empty; Map empty
+  Raw: 780,KillerElite,2,32315,,301,368,0,0,1,1
+

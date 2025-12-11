@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgserver\\msgdatapacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgserver\\msgdatapacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgevents\\base\\eventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgevents\\base\\eventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgmonster\\monsterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgmonster\\monsterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgserver\\msgmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgserver\\msgmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\database\\serverdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:database\\serverdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgserver\\msgloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgserver\\msgloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgserver\\msgloginclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgserver\\msgloginclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\msgguildpole2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\msgguildpole2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\nobilitywar\\msgnobilitypole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\nobilitywar\\msgnobilitypole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\nobilitywar\\msgnobilitypole1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\nobilitywar\\msgnobilitypole1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\nobilitywar\\msgnobilitypole2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\nobilitywar\\msgnobilitypole2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\nobilitywar\\msgnobilitypole3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\nobilitywar\\msgnobilitypole3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\msgplayerpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\msgplayerpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\msgtwincitywar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\msgtwincitywar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\msgguildpole1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\msgguildpole1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\msgguildpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\msgguildpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\game\\msgtournaments\\msgguildddpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\msgguildddpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|c:\\users\\pezzi\\desktop\\proyectos\\source package v.6609\\gameserver\\database\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:database\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\database\\npcserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:database\\npcserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\game\\msgtournaments\\msgschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA497D7-7FB4-4900-A25A-C4DB528E58A6}|DeathWish.csproj|solutionrelative:game\\msgtournaments\\msgschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonsterRole.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgMonster\\MonsterRole.cs",
+              "RelativeDocumentMoniker": "Game\\MsgMonster\\MonsterRole.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgMonster\\MonsterRole.cs",
+              "RelativeToolTip": "Game\\MsgMonster\\MonsterRole.cs",
+              "ViewState": "AgIAACMHAAAAAAAAAAAAADIHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:06:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventBase.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgEvents\\Base\\EventBase.cs",
+              "RelativeDocumentMoniker": "Game\\MsgEvents\\Base\\EventBase.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgEvents\\Base\\EventBase.cs",
+              "RelativeToolTip": "Game\\MsgEvents\\Base\\EventBase.cs",
+              "ViewState": "AgIAAJcDAAAAAAAAAAAswJ0DAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:06:20.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MsgDataPacket.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgDataPacket.cs",
+              "RelativeDocumentMoniker": "Game\\MsgServer\\MsgDataPacket.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgDataPacket.cs",
+              "RelativeToolTip": "Game\\MsgServer\\MsgDataPacket.cs",
+              "ViewState": "AgIAAHIEAAAAAAAAAADwv34EAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:05:42.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Database\\ServerDatabase.cs",
+              "RelativeDocumentMoniker": "Database\\ServerDatabase.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Database\\ServerDatabase.cs",
+              "RelativeToolTip": "Database\\ServerDatabase.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswJoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:05:20.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MsgLoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgLoginHandler.cs",
+              "RelativeDocumentMoniker": "Game\\MsgServer\\MsgLoginHandler.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgLoginHandler.cs",
+              "RelativeToolTip": "Game\\MsgServer\\MsgLoginHandler.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAwwAYBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:52.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MsgLoginClient.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgLoginClient.cs",
+              "RelativeDocumentMoniker": "Game\\MsgServer\\MsgLoginClient.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgLoginClient.cs",
+              "RelativeToolTip": "Game\\MsgServer\\MsgLoginClient.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAowAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MsgNobilityPole3.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole3.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole3.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole3.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole3.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:23.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MsgMessage.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgMessage.cs",
+              "RelativeDocumentMoniker": "Game\\MsgServer\\MsgMessage.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgServer\\MsgMessage.cs",
+              "RelativeToolTip": "Game\\MsgServer\\MsgMessage.cs",
+              "ViewState": "AgIAAKsCAAAAAAAAAAAswLoCAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:02:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MsgPlayerPole.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgPlayerPole.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\MsgPlayerPole.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgPlayerPole.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\MsgPlayerPole.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MsgNobilityPole2.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole2.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole2.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole2.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MsgNobilityPole1.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole1.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole1.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole1.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MsgNobilityPole.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\NobilityWar\\MsgNobilityPole.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:21.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MsgGuildPole2.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildPole2.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\MsgGuildPole2.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildPole2.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\MsgGuildPole2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:09.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MsgTwinCityWar.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgTwinCityWar.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\MsgTwinCityWar.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgTwinCityWar.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\MsgTwinCityWar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MsgGuildPole1.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildPole1.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\MsgGuildPole1.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildPole1.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\MsgGuildPole1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:08.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MsgGuildPole.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildPole.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\MsgGuildPole.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildPole.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\MsgGuildPole.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:03:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MsgGuildddPole.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildddPole.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\MsgGuildddPole.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgGuildddPole.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\MsgGuildddPole.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:02:58.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Database\\Server.cs",
+              "RelativeDocumentMoniker": "Database\\Server.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Database\\Server.cs",
+              "RelativeToolTip": "Database\\Server.cs",
+              "ViewState": "AgIAAPoCAAAAAAAAAAAQwAkDAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:47:14.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NpcServer.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Database\\NpcServer.cs",
+              "RelativeDocumentMoniker": "Database\\NpcServer.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Database\\NpcServer.cs",
+              "RelativeToolTip": "Database\\NpcServer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAWwGsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:43:18.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MsgSchedules.cs",
+              "DocumentMoniker": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgSchedules.cs",
+              "RelativeDocumentMoniker": "Game\\MsgTournaments\\MsgSchedules.cs",
+              "ToolTip": "C:\\Users\\pezzi\\Desktop\\Proyectos\\Source Package v.6609\\GameServer\\Game\\MsgTournaments\\MsgSchedules.cs",
+              "RelativeToolTip": "Game\\MsgTournaments\\MsgSchedules.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:43:08.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

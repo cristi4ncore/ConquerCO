@@ -1,0 +1,20 @@
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 02507ECE543B
+Log Time : 17:19:16
+Date: 10-12-2025
+---------------------------------------------------
+---------------------------------------------------
+UIDAccount : 1000005
+UserName : maxipro11
+Password : 1037
+ServerName : ConquerCO
+IPAccount : 26.180.109.107
+HDSerial : 02507ECE543B
+Log Time : 17:29:41
+Date: 10-12-2025
+---------------------------------------------------

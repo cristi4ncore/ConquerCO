@@ -1,0 +1,6 @@
+Count=5
+PIKATCHU[Bot]/0/0/0/
+[GM]DeathCO[PM]/1000002/0/0/
+Fosforocore/1000003/1000/0/
+PezziDev/1000004/0/0/
+maxi/1000005/0/0/

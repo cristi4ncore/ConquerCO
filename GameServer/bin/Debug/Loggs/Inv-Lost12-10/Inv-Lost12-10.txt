@@ -1,0 +1,570 @@
+[Inv-Lost] 17H:28M pid:   1000003  Fosforocore Lost  188495 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:31M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:32M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:33M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:34M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:35M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:43M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:43M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:43M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:44M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:45M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:46M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:47M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:49M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 17H:49M pid:   1000003  Fosforocore Lost  727840 
+
+[Inv-Lost] 17H:49M pid:   1000003  Fosforocore Lost  727841 
+
+[Inv-Lost] 17H:51M pid:   1000003  Fosforocore Lost  192745 
+
+[Inv-Lost] 17H:51M pid:   1000003  Fosforocore Lost  188715 
+
+[Inv-Lost] 17H:51M pid:   1000003  Fosforocore Lost  188515 
+
+[Inv-Lost] 17H:51M pid:   1000003  Fosforocore Lost  188715 
+
+[Inv-Lost] 17H:51M pid:   1000003  Fosforocore Lost  188715 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3303698 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  723715 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3007110 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3004181 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3004245 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3001044 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3008733 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3008733 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3301224 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3301226 
+
+[Inv-Lost] 17H:53M pid:   1000005  maxi Lost  3303373 
+
+[Inv-Lost] 17H:54M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:54M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:54M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:54M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:54M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:54M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+
+[Inv-Lost] 17H:55M pid:   1000005  maxi Lost  1088001 
+

@@ -1,0 +1,2830 @@
+[Inv-Add] 19H:1M pid:  1000004  PezziDev Get  3100011 
+
+[Inv-Add] 19H:48M pid:  1000003  Fosforocore Get  721259 
+
+[Inv-Add] 19H:48M pid:  1000003  Fosforocore Get  723701 
+
+[Inv-Add] 19H:48M pid:  1000003  Fosforocore Get  711083 
+
+[Inv-Add] 19H:48M pid:  1000003  Fosforocore Get  711083 
+
+[Inv-Add] 19H:48M pid:  1000003  Fosforocore Get  711083 
+
+[Inv-Add] 19H:48M pid:  1000003  Fosforocore Get  3001027 
+
+[Inv-Add] 19H:48M pid:  1000003  Fosforocore Get  727266 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  723700 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  201009 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  202009 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  203009 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  204009 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  421009 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  152019 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  121029 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  160019 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  134009 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  114009 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  3005160 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  3005161 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  3005164 
+
+[Inv-Add] 19H:49M pid:  1000003  Fosforocore Get  3005167 
+
+[Inv-Add] 19H:50M pid:  1000003  Fosforocore Get  1200000 
+
+[Inv-Add] 19H:50M pid:  1000003  Fosforocore Get  193275 
+
+[Inv-Add] 19H:50M pid:  1000003  Fosforocore Get  188495 
+
+[Inv-Add] 19H:50M pid:  1000003  Fosforocore Get  1200000 
+
+[Inv-Add] 19H:50M pid:  1000003  Fosforocore Get  188175 
+
+[Inv-Add] 19H:50M pid:  1000003  Fosforocore Get  700002 
+
+[Inv-Add] 19H:51M pid:  1000003  Fosforocore Get  421079 
+
+[Inv-Add] 20H:20M pid:  1000003  Fosforocore Get  3100011 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  3005117 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  723700 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  723017 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  723700 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  3005107 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  3005118 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  3005119 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  3001264 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  721052 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  3005120 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  3005123 
+
+[Inv-Add] 20H:23M pid:  1000003  Fosforocore Get  181405 
+
+[Inv-Add] 20H:33M pid:  1000005  maxi Get  721259 
+
+[Inv-Add] 20H:33M pid:  1000005  maxi Get  723701 
+
+[Inv-Add] 20H:33M pid:  1000005  maxi Get  711083 
+
+[Inv-Add] 20H:33M pid:  1000005  maxi Get  711083 
+
+[Inv-Add] 20H:33M pid:  1000005  maxi Get  711083 
+
+[Inv-Add] 20H:33M pid:  1000005  maxi Get  3001027 
+
+[Inv-Add] 20H:33M pid:  1000005  maxi Get  727266 
+
+[Inv-Add] 20H:34M pid:  1000005  maxi Get  3005160 
+
+[Inv-Add] 20H:34M pid:  1000005  maxi Get  3005161 
+
+[Inv-Add] 20H:34M pid:  1000005  maxi Get  3005164 
+
+[Inv-Add] 20H:34M pid:  1000005  maxi Get  3005167 
+
+[Inv-Add] 20H:36M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:36M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  3004035 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  729477 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  729476 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  3004036 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  131093 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  134093 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  151233 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  150233 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  150233 
+
+[Inv-Add] 20H:37M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727839 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  3004035 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  134173 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  729477 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  729476 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:38M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  727839 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  727839 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  420253 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  421253 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  729477 
+
+[Inv-Add] 20H:39M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  201009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  202009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  203009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  626009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  626009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  120009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  150019 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  160019 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  101009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  170009 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  182905 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  700122 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  193735 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  1200000 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  193815 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  1200000 
+
+[Inv-Add] 20H:40M pid:  1000005  maxi Get  723700 
+
+[Inv-Add] 20H:48M pid:  1000005  maxi Get  3005117 
+
+[Inv-Add] 20H:48M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 20H:48M pid:  1000005  maxi Get  723700 
+
+[Inv-Add] 20H:48M pid:  1000005  maxi Get  723017 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  3005118 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  3005119 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  3001264 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  3005120 
+
+[Inv-Add] 20H:50M pid:  1000005  maxi Get  721052 
+
+[Inv-Add] 20H:50M pid:  1000003  Fosforocore Get  3008733 
+
+[Inv-Add] 20H:50M pid:  1000003  Fosforocore Get  3301224 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:5M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:6M pid:  1000003  Fosforocore Get  134093 
+
+[Inv-Add] 21H:6M pid:  1000003  Fosforocore Get  188175 
+
+[Inv-Add] 21H:6M pid:  1000003  Fosforocore Get  188495 
+
+[Inv-Add] 21H:8M pid:  1000003  Fosforocore Get  2100025 
+
+[Inv-Add] 21H:10M pid:  1000003  Fosforocore Get  1060020 
+
+[Inv-Add] 21H:11M pid:  1000003  Fosforocore Get  1060039 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:13M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:14M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:14M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:14M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:16M pid:  1000003  Fosforocore Get  3008733 
+
+[Inv-Add] 21H:16M pid:  1000003  Fosforocore Get  723713 
+
+[Inv-Add] 21H:17M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 21H:19M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:19M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:19M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:24M pid:  1000005  maxi Get  181425 
+
+[Inv-Add] 21H:24M pid:  1000005  maxi Get  3100011 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:40M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:41M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:42M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:44M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:45M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:46M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:47M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:47M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:47M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:47M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:47M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:48M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:48M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:48M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:48M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:48M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:48M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:48M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:49M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:50M pid:  1000003  Fosforocore Get  700013 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1200005 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  421009 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:55M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:56M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 21H:57M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:2M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:4M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:5M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:6M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:7M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:8M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:8M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:8M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:9M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:10M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  1088001 
+
+[Inv-Add] 22H:11M pid:  1000003  Fosforocore Get  720027 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000005  maxi Get  204009 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:12M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:16M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:17M pid:  1000003  Fosforocore Get  725067 
+
+[Inv-Add] 22H:17M pid:  1000003  Fosforocore Get  1003010 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:20M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:23M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:24M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:29M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3008733 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3008733 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  723715 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3001044 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3009002 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3304151 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3007110 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3004245 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  820071 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3002926 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  723715 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3004245 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3301226 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3002926 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3303698 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  800804 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  723342 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3009002 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  1088000 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  729847 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3303373 
+
+[Inv-Add] 22H:35M pid:  1000003  Fosforocore Get  3004181 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3001044 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3007110 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3004181 
+
+[Inv-Add] 22H:35M pid:  1000005  maxi Get  3301224 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000005  maxi Get  1088001 
+
+[Inv-Add] 22H:40M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 22H:40M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:40M pid:  1000003  Fosforocore Get  727839 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  729476 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  3004035 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  729477 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 22H:41M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:42M pid:  1000003  Fosforocore Get  3004036 
+
+[Inv-Add] 22H:42M pid:  1000003  Fosforocore Get  727839 
+
+[Inv-Add] 22H:42M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:42M pid:  1000003  Fosforocore Get  729476 
+
+[Inv-Add] 22H:42M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 22H:42M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:43M pid:  1000003  Fosforocore Get  3004035 
+
+[Inv-Add] 22H:43M pid:  1000003  Fosforocore Get  727841 
+
+[Inv-Add] 22H:43M pid:  1000003  Fosforocore Get  727840 
+
+[Inv-Add] 22H:43M pid:  1000003  Fosforocore Get  727839 
+
+[Inv-Add] 22H:44M pid:  1000003  Fosforocore Get  729477 
+
+[Inv-Add] 22H:44M pid:  1000003  Fosforocore Get  727841 
+

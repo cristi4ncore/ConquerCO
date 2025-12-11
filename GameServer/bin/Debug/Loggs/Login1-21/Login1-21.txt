@@ -1,0 +1,2 @@
+[Login]2H:50M:52S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  
+[Login]2H:58M:44S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  

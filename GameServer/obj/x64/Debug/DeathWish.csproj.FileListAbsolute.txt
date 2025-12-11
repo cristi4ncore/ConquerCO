@@ -1,0 +1,64 @@
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.Chi.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.Controlpanel.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.JiangHu.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.config
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\DeathWish.pdb
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\bin\Debug\LoaderHelper.dll
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\en\DeathWish.resources.dll
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.exe.manifest
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.application
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.exe
+C:\Users\Administrator\Desktop\# This Sourse - Last Edit\obj\x64\Debug\DeathWish.pdb
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe.config
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe.manifest
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\bin\Debug\DeathWish.application
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\bin\Debug\DeathWish.pdb
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\bin\Debug\en\DeathWish.resources.dll
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.AssemblyReference.cache
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Properties.Resources.resources
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Chi.resources
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Controlpanel.resources
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.JiangHu.resources
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.GenerateResource.cache
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.CoreCompileInputs.cache
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\en\DeathWish.resources.dll
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.exe.manifest
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.application
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.Up2Date
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.exe
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.pdb
+C:\Users\pezzi\Desktop\Proyectos\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.exe.config
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe.config
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe.manifest
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.application
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.exe
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.AssemblyReference.cache
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Properties.Resources.resources
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Panels.AccountsForm.resources
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Panels.ChatPanal.resources
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Chi.resources
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Controlpanel.resources
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.JiangHu.resources
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.Panels.ChatPanal.en.resources
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.GenerateResource.cache
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.CoreCompileInputs.cache
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\en\DeathWish.resources.dll
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.exe.manifest
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.application
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.csproj.Up2Date
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.exe
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\obj\x64\Debug\DeathWish.pdb
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\bin\Debug\DeathWish.pdb
+C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\bin\Debug\en\DeathWish.resources.dll

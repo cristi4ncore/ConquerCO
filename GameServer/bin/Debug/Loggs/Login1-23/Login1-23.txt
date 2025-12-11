@@ -1,0 +1,7 @@
+[Login]4H:4M:32S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  
+[Login]18H:13M:12S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  
+[Login]18H:16M:1S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  
+[Login]18H:35M:40S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  
+[Login]18H:37M:28S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  
+[Login]18H:38M:12S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  
+[Login]18H:39M:33S pid: 1033464 DIABLO [ Login  ]   On Game IP  [26.190.118.174] MachineName []  MacAddress [  ] HDSerial  [0 ]  

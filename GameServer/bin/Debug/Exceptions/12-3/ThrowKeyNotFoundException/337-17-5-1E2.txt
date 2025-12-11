@@ -1,0 +1,11 @@
+----Exception message----
+La clave proporcionada no se encontró en el diccionario.
+----End of exception message----
+
+----Stack trace----
+   en System.ThrowHelper.ThrowKeyNotFoundException()
+   en System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   en DeathWish.Game.MsgEvents.Events.StartTournament(Int32 _signuptime) en C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\Game\MsgEvents\Base\EventBase.cs:línea 776
+   en DeathWish.Game.MsgTournaments.MsgSchedules.CheckUp(Time32 clock) en C:\Users\Conquista\Desktop\Source Package v.6609\GameServer\Game\MsgTournaments\MsgSchedules.cs:línea 304
+----End of stack trace----
+
