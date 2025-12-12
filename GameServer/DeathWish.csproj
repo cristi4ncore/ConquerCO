@@ -427,6 +427,7 @@
     <Compile Include="Game\MsgNpc\NpcServerReplay.cs" />
     <Compile Include="Game\MsgNpc\Procesor.cs" />
     <Compile Include="Game\MsgNpc\StaticGUI.cs" />
+    <Compile Include="Game\MsgNpc\ItemGiver.cs" />
     <Compile Include="Game\MsgServer\GlobalLottery\MsgGlobalLottery.cs" />
     <Compile Include="Game\MsgServer\GlobalLottery\MsgGlobalLotteryRankList.cs" />
     <Compile Include="Game\MsgServer\GlobalLottery\MsgGoldenTree.cs" />
